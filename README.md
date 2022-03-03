@@ -2,17 +2,10 @@
 
 
 Questions have been asked to analyse the dataset using the following functions:	
-
--XLOOKUP
-
--VLOOKUP	
-
--HLOOKUP
-
--INDEX
-
--MATCH
-
--LOOKUP
-
--IFERROR							
+- XLOOKUP
+- VLOOKUP	
+- HLOOKUP
+- INDEX
+- MATCH
+- LOOKUP
+- IFERROR							
