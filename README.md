@@ -1,4 +1,4 @@
-#This is a dataset of male and female hockey players in Canada. 
+# This is a dataset of male and female hockey players in Canada. 
 
 
 Questions have been asked to analyse the dataset using the following functions:	
